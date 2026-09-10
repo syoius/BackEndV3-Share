@@ -2,6 +2,9 @@
 
 基于 MaaYuan-Share-Backend 架构模板搭建的后端框架骨架。
 
+QQ 机器人连接的三端执行方案、共享接口契约、执行 prompt 与总进度见
+[QQ 连接实施文档](docs/qq-bot/00-overview-and-progress.md)（目前为方案，尚未实现）。
+
 ## 技术栈
 
 - Kotlin 2.2 (JDK 21)
